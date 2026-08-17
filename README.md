@@ -79,4 +79,4 @@ Fuente: dataset sintético generado con inteligencia artificial, simulando campa
 
 ## 📬 Contacto
 
-¡Contáctame por [![LinkedIn](https://shields.io)]([https://linkedin.com](https://www.linkedin.com/in/adrianmdiaz/)) o revisa más proyectos en mi portafolio de GitHub!
+¡Contáctame por [LinkedIn](https://www.linkedin.com/in/adrianmdiaz/) o revisa más proyectos en mi portafolio de GitHub!
